@@ -322,9 +322,7 @@ export default function FinancialProjectionMobile() {
       <div className="mx-auto w-full max-w-[480px] p-4">
         {/* Header */}
         <header className="mb-5">
-          <h1 className="text-2xl font-semibold tracking-tight">
-            Previsibilidade Financeira
-          </h1>
+          <h1 className="text-2xl font-semibold tracking-tight">Financeira</h1>
           <p className="mt-1 text-sm text-gray-400">
             Quanto vai sobrar até o fim do mês?
           </p>
